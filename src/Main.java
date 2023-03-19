@@ -16,7 +16,7 @@ public class Main {
 
         switch(select){
             case 1:
-                System.out.print("Toplam:"+(n1+n2));
+                System.out.print("Toplama:"+(n1+n2));
                 break;
             case 2:
                 System.out.print("Çıkarma:"+(n1-n2));
